@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MeshRendererDef Name="Base_MeshRenderer_PlayerBullet">
+    <ModelPath>Models/Bullet.obj</ModelPath>
+    <MaterialDef>Base_PlayerBulletMaterial</MaterialDef>
+</MeshRendererDef>

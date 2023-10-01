@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MaterialDef Name="Base_PlayerMaterial" Parent="Base_MaterialBase">
+    <TextureInputs>
+        <lv>
+            <Slot>0</Slot>
+            <Path>Textures/Player_Color.png</Path>
+        </lv>
+        <lv>
+            <Slot>1</Slot>
+            <Path>Textures/Player_Emission.png</Path>
+        </lv>
+    </TextureInputs>
+</MaterialDef>

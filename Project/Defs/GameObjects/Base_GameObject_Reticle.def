@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameObjectDef Name="Base_GameObject_Reticle">
+    <Components>
+        <lv>Base_MeshRenderer_Reticle</lv>
+        <lv>Base_Reticle</lv>
+    </Components>
+</GameObjectDef>

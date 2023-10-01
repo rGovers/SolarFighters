@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameObjectDef Name="Base_GameObject_Beam">
+    <Components>
+        <lv>Base_MeshRenderer_Beam</lv>
+        <lv>Base_PhysicsBody_Beam</lv>
+        <lv>Base_Beam</lv>
+        <lv>Base_PointLight_Beam</lv>
+    </Components>
+</GameObjectDef>

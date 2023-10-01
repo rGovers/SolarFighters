@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Canvas xRes="1280" yRes="720">
+    <Text xPos="10" yPos="50" width="400" height="100" text="Game Over" fontSize="80" font="Fonts/PixelifySans-Medium.ttf"/>
+    <Text name="Restart" xPos="30" yPos="120" width="250" height="40" text="Restart" fontSize="48" font="Fonts/PixelifySans-Medium.ttf"
+        onNormal="LD54.LD54AssemblyControl:UINormalButton"
+        onHover="LD54.LD54AssemblyControl:UIHoverButton"
+        onPressed="LD54.LD54AssemblyControl:UIPressedButton"
+        onReleased="LD54.LD54AssemblyControl:UIReleasedButton"/>
+    <Text name="Quit" xPos="30" yPos="160" width="250" height="40" text="Quit" fontSize="48" font="Fonts/PixelifySans-Medium.ttf"
+        onNormal="LD54.LD54AssemblyControl:UINormalButton"
+        onHover="LD54.LD54AssemblyControl:UIHoverButton"
+        onPressed="LD54.LD54AssemblyControl:UIPressedButton"
+        onReleased="LD54.LD54AssemblyControl:UIReleasedButton"/>
+</Canvas>

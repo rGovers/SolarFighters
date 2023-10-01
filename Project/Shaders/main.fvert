@@ -1,0 +1,21 @@
+#version 460
+
+layout(location = 0) in vec4 position;
+layout(location = 1) in vec3 normal;
+layout(location = 2) in vec4 color;
+layout(location = 3) in vec2 texCoord;
+
+layout(location = 0) out vec3 fragNormal;
+layout(location = 1) out vec2 fragTexCoord;
+
+#!structure(CameraBuffer, 2, 1, camBuffer)
+#!structure(SSModelBuffer, 3, 2, modelBuffer)
+
+void main()
+{
+    mat4 modelMat = #!instancedstructure(modelBuffer).Model;
+    gl_Position = camBuffer.ViewProj * modelMat * position;
+
+    fragNormal = mat3(modelMat) * normal;
+    fragTexCoord = vec2(texCoord.x, 1.0 - texCoord.y);
+}

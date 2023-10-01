@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Canvas xRes="1280" yRes="720">
+    <Text xPos="550" yPos="600" width="500" height="100" text="Space to START" fontSize="80" font="Fonts/PixelifySans-Medium.ttf"/>
+    <Text xPos="560" yPos="100" width="500" height="100" text="Ludun Dare 54
+Limited Space" fontSize="60" font="Fonts/PixelifySans-Medium.ttf"/>  
+    <Text xPos="525" yPos="200" width="600" height="100" text="SOLAR FIGHTERS" fontSize="90" font="Fonts/PixelifySans-Medium.ttf"/>
+    <Text xPos="10" yPos="10" width="500" height="100" text="WASD move" fontSize="40" font="Fonts/PixelifySans-Medium.ttf"/>
+    <Text xPos="10" yPos="50" width="500" height="100" text="Mouse aim" fontSize="40" font="Fonts/PixelifySans-Medium.ttf"/>
+    <Text xPos="10" yPos="90" width="500" height="100" text="Left click to shoot" fontSize="40" font="Fonts/PixelifySans-Medium.ttf"/>
+</Canvas>

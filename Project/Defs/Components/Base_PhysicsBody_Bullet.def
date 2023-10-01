@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TriggerBodyDef Name="Base_PhysicsBody_Bullet">
+    <CollisionShape>Base_Collider_Bullet</CollisionShape>
+</TriggerBodyDef>

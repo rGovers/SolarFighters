@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameObjectDef Name="Base_GameObject_EnemySpawner">
+    <Components>
+        <lv>Base_EnemySpawner</lv>
+    </Components>
+</GameObjectDef>

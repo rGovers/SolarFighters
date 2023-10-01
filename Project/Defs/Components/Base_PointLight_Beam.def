@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PointLightDef Name="Base_PointLight_Beam">
+    <Color>
+        <R>255</R>
+        <G>10</G>
+        <B>10</B>
+        <A>255</A>
+    </Color>
+    <Intensity>5</Intensity>
+    <Radius>10</Radius>
+</PointLightDef>

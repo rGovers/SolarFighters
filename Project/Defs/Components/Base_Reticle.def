@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComponentDef Name="Base_Reticle">
+    <ComponentType>LD54.Reticle</ComponentType>
+</ComponentDef>

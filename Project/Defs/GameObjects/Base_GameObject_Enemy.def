@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameObjectDef Name="Base_GameObject_Enemy">
+    <Components>
+        <lv>Base_MeshRenderer_Enemy</lv>
+        <lv>Base_PhysicsBody_Enemy</lv>
+        <lv>Base_EnemyController</lv>
+        <lv>Base_EnemyHealth</lv>
+    </Components>
+</GameObjectDef>

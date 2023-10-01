@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+    <Objects>
+        <GameObject>
+            <DefName>Base_GameObject_Player</DefName>
+        </GameObject>
+        <GameObject>
+            <Translation>
+                <X>7.5</X>
+            </Translation>
+            <DefName>Base_GameObject_EnemySpawner</DefName>
+        </GameObject>
+        <GameObject>
+            <Translation>
+                <X>-7.5</X>
+            </Translation>
+            <DefName>Base_GameObject_EnemySpawner</DefName>
+        </GameObject>
+        <GameObject>
+            <DefName>TestScene_GameObject_WallController</DefName>
+        </GameObject>
+        <GameObject>
+            <Translation>
+                <Y>0.5</Y>
+            </Translation>
+            <DefName>Base_GameObject_Floor</DefName>
+        </GameObject>
+        <GameObject>
+            <DefName>Base_GameObject_ObstacleSpawner</DefName>
+        </GameObject>
+    </Objects>
+    <Defs>
+        <LD54.WallControllerDef Name="TestScene_WallController">
+            <UpperWallDef>Base_GameObject_UpperWall</UpperWallDef>
+            <UpperWallDistance>25.0</UpperWallDistance>
+            <SideWallDef>Base_GameObject_SideWall</SideWallDef>
+            <SideWallDistance>35.0</SideWallDistance>
+            <WallAcceleration>0.02</WallAcceleration>
+        </LD54.WallControllerDef>
+        <GameObjectDef Name="TestScene_GameObject_WallController">
+            <Name>Wall</Name>
+            <Components>
+                <lv>TestScene_WallController</lv>
+            </Components>
+        </GameObjectDef>
+    </Defs>
+</Scene>

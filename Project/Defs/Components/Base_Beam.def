@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComponentDef Name="Base_Beam">
+    <ComponentType>LD54.Beam</ComponentType>
+</ComponentDef>

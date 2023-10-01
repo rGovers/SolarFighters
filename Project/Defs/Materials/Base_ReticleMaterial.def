@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MaterialDef Name="Base_ReticleMaterial" Parent="Base_MaterialBaseSolid">
+    <PixelShaderPath>Shaders/reticle.fpix</PixelShaderPath>
+</MaterialDef>

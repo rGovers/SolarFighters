@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameObjectDef Name="Base_GameObject_PlayerN">
+    <Name>Player</Name>
+    <Components>
+        <lv>Base_MeshRenderer_Player</lv>
+        <lv>Base_PointLight_Player</lv>
+    </Components>
+</GameObjectDef>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PointLightDef Name="Base_PointLight_Player">
+    <Color>
+        <R>10</R>
+        <G>10</G>
+        <B>255</B>
+        <A>255</A>
+    </Color>
+    <Intensity>1</Intensity>
+    <Radius>4</Radius>
+</PointLightDef>

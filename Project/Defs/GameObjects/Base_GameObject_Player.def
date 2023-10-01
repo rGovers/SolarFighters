@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameObjectDef Name="Base_GameObject_Player">
+    <Name>Player</Name>
+    <Components>
+        <lv>Base_MeshRenderer_Player</lv>
+        <lv>Base_PlayerController</lv>
+        <lv>Base_PhysicsBody_Player</lv>
+        <lv>Base_PlayerHealth</lv>
+        <lv>Base_PointLight_Player</lv>
+    </Components>
+</GameObjectDef>

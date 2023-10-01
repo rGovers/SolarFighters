@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MaterialDef Name="Base_PlayerBulletMaterial" Parent="Base_MaterialBaseSolid">
+    <PixelShaderPath>Shaders/bullet-player.fpix</PixelShaderPath>
+</MaterialDef>

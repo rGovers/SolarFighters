@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BoxCollisionShapeDef Name="Base_Collider_Enemy">
+    <Extents>
+        <X>1.0</X>
+        <Y>1.0</Y>
+        <Z>1.0</Z>
+    </Extents>
+</BoxCollisionShapeDef>

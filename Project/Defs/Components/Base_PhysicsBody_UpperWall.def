@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RigidBodyDef Name="Base_PhysicsBody_UpperWall">
+    <CollisionShape>Base_Collider_UpperWall</CollisionShape>
+</RigidBodyDef>

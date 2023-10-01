@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameObjectDef Name="Base_GameObject_Floor">
+    <Components>
+        <lv>Base_MeshRenderer_Floor</lv>
+    </Components>
+</GameObjectDef>

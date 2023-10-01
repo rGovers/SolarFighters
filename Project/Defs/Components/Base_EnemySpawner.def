@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LD54.EnemySpawnerDef Name="Base_EnemySpawner">
+    <EnemyDef>Base_GameObject_Enemy</EnemyDef>
+    <SpawnInterval>10</SpawnInterval>
+</LD54.EnemySpawnerDef>

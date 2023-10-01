@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameObjectDef Name="Base_GameObject_UpperWall">
+    <Components>
+        <lv>Base_MeshRenderer_UpperWall</lv>
+        <lv>Base_PhysicsBody_UpperWall</lv>
+    </Components>
+</GameObjectDef>

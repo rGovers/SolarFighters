@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BoxCollisionShapeDef Name="Base_Collider_SideWall">
+    <Extents>
+        <X>0.5</X>
+        <Y>20.0</Y>
+        <Z>40.0</Z>
+    </Extents>
+</BoxCollisionShapeDef>

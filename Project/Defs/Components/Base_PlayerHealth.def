@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LD54.HealthDef Name="Base_PlayerHealth">
+    <MaxHealth>50</MaxHealth>
+</LD54.HealthDef>

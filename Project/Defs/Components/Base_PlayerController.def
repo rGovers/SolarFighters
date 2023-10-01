@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LD54.PlayerControllerDef Name="Base_PlayerController">
+    <MovementSpeed>20</MovementSpeed>
+    <ShootRecharge>0.25</ShootRecharge>
+    <BulletDef>Base_GameObject_PlayerBullet</BulletDef>
+</LD54.PlayerControllerDef>

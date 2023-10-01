@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LD54.HealthDef Name="Base_EnemyHealth">
+    <MaxHealth>25</MaxHealth>
+    <WallPushback>0.1</WallPushback>
+</LD54.HealthDef>

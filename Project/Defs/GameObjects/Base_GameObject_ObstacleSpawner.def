@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameObjectDef Name="Base_GameObject_ObstacleSpawner">
+    <Components>
+        <lv>Base_ObstacleSpawner</lv>
+    </Components>
+</GameObjectDef>

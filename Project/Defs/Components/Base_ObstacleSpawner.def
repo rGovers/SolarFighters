@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LD54.ObstacleSpawnerDef Name="Base_ObstacleSpawner">
+    <ObstacleDef>Base_GameObject_Reticle</ObstacleDef>
+    <SpawnInterval>5.0</SpawnInterval>
+    <SpawnDecay>0.01</SpawnDecay>
+    <SpawnRadius>10.0</SpawnRadius>
+</LD54.ObstacleSpawnerDef>

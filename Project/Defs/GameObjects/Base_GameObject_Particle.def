@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameObjectDef Name="Base_GameObject_Particle">
+    <Components>
+        <lv>Base_Particle</lv>
+        <lv>Base_MeshRenderer_Particle</lv>
+    </Components>
+</GameObjectDef>

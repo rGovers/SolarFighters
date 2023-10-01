@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LD54.EnemyControllerDef Name="Base_EnemyController">
+    <ComponentType>LD54.EnemyController</ComponentType>
+    <BulletDef>Base_GameObject_EnemyBullet</BulletDef>
+    <TurnSpeed>1.5</TurnSpeed>
+    <KickForce>1.5</KickForce>
+</LD54.EnemyControllerDef>

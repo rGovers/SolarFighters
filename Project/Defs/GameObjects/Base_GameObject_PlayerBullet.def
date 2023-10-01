@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameObjectDef Name="Base_GameObject_PlayerBullet">
+    <Components>
+        <lv>Base_MeshRenderer_PlayerBullet</lv>
+        <lv>Base_PhysicsBody_Bullet</lv>
+        <lv>Base_BulletController</lv>
+    </Components>
+</GameObjectDef>
